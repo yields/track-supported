@@ -1,0 +1,13 @@
+{
+  "name": "track-supported",
+  "repo": "yields/track-supported",
+  "description": "Check if `<track>` element is supported.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
